@@ -1,0 +1,31 @@
+// Idea - Todo app which can create tasks
+// Features this app should have
+
+CRUD OPERATION - CREATE, READ, UPDATE, DELETE OPERATION
+
+// 1. Create a tasks
+
+// 2. View all the tasks
+
+// 3. Delete a task
+
+// 4. Update a task
+
+
+// Technologies Involved
+
+// Frontend
+// HTML + CSS + JS
+
+// SQL.js (ACTING AS A BACKEND)
+
+
+// Backend
+// Node.js (Javascript) , SSMS (SQL Server)
+
+
+// REQUEST IS BEING SEND TO BACKEND
+On the fronted user creates a task ---> 
+REQUEST TO BACKEND -->
+SENDS REQUEST TO DATABASE (SSMS/SQL Server)
+// SENDS Response back to the Frontend
